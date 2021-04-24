@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373285476089",
+    "project_id": "plantcontrolapp-11cad",
+    "storage_bucket": "plantcontrolapp-11cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373285476089:android:e6efec2d31c475ba28f428",
+        "android_client_info": {
+          "package_name": "com.example.plant_controlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373285476089-08ijcp65d5nhkf7v6ebf69trbfrbktnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Gd2TVV09lkJOAyLF70Eb-WAKQzklaJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373285476089-08ijcp65d5nhkf7v6ebf69trbfrbktnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
